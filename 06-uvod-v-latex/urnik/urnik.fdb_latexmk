@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1762894471.83719 "c:/Users/katja/Desktop/RP/racunalniski-praktikum/06-uvod-v-latex/urnik/urnik.tex" "urnik.pdf" "urnik" 1762894474.07398 0
+["pdflatex"] 1763386470.62803 "c:/Users/katja/Desktop/RP/racunalniski-praktikum/06-uvod-v-latex/urnik/urnik.tex" "urnik.pdf" "urnik" 1763386473.65874 0
   "C:/Users/katja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762786363 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/katja/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762782571 13333512 b79a6f037da79a8ea192512934fd2240 ""
   "C:/Users/katja/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -101,10 +101,10 @@
   "C:/Users/katja/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/katja/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "C:/Users/katja/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/katja/Desktop/RP/racunalniski-praktikum/06-uvod-v-latex/urnik/urnik.tex" 1762894470 29217 b5e7b8acc364ba1f43037cb1ea658e3f ""
-  "urnik.aux" 1762894473 1938 32c52102df42ab833bade938fa387d6c "pdflatex"
-  "urnik.out" 1762894473 1917 4b448c14842e78aea7e8f74d62630451 "pdflatex"
-  "urnik.tex" 1762894470 29217 b5e7b8acc364ba1f43037cb1ea658e3f ""
+  "c:/Users/katja/Desktop/RP/racunalniski-praktikum/06-uvod-v-latex/urnik/urnik.tex" 1763386467 29233 b012dd3a3d69c705d2b47359493a85b3 ""
+  "urnik.aux" 1763386473 1938 32c52102df42ab833bade938fa387d6c "pdflatex"
+  "urnik.out" 1763386473 1917 4b448c14842e78aea7e8f74d62630451 "pdflatex"
+  "urnik.tex" 1763386467 29233 b012dd3a3d69c705d2b47359493a85b3 ""
   (generated)
   "urnik.aux"
   "urnik.log"
