@@ -45,3 +45,4 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 5.  Odpiranje novega okna 
 6.  Išči
 7. Odpiranje novega zavihka
+8. Povezava na spletno stran iz 5. domače naloge [file:///C:/Users/katja/Desktop/RP/racunalniski-praktikum/03-html/stran.html]
